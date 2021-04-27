@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765798690029",
+    "firebase_url": "https://smarttirtayasa.firebaseio.com",
+    "project_id": "smarttirtayasa",
+    "storage_bucket": "smarttirtayasa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765798690029:android:e3d29a13380322d3e830e4",
+        "android_client_info": {
+          "package_name": "com.labcnt.smarttirtayasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765798690029-hepmsr5j6v1jrsgdqi3uf352hne4t0jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNnL5pgK1H7wSFyDoLK_Gn0cL_96Z-s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765798690029-hepmsr5j6v1jrsgdqi3uf352hne4t0jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
